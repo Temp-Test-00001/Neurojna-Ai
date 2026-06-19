@@ -1,0 +1,6 @@
+{
+  "name": "Neurojna AI Website",
+  "description": "Modern premium startup website for Neurojna AI Pvt. Ltd., including dynamic hero, about, services, tech stack showcase, interactive portfolio, and contact section.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
