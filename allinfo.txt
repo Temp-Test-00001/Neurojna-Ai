@@ -1,0 +1,230 @@
+================================================================================
+NEUROJNA AI PVT. LTD. - COMPLETE WEBSITE & COMPANY PROFILE
+================================================================================
+
+1. GENERAL COMPANY INFORMATION
+--------------------------------------------------------------------------------
+* Company Name: Neurojna AI Pvt. Ltd. (also known as Neurojna AI)
+* Location: Nagpur, India
+* Contact Email: infoneurojnaai@gmail.com
+* Social Media Links:
+  - GitHub: https://github.com
+  - LinkedIn: https://linkedin.com
+  - Twitter: https://twitter.com
+* Mission / Core Focus:
+  - Close the gap between academic AI research and practical business applications.
+  - Deliver high-impact corporate training programs and enterprise-grade solutions.
+  - Upskill organizational workforces to stay future-ready with cutting-edge tech.
+
+2. KEY IMPACT STATISTICS
+--------------------------------------------------------------------------------
+* Professionals Trained: 500+
+* Corporate Clients: 50+ / Enterprise Clients: 35+
+* Average Rating: 4.8★
+* Programs Delivered: 45+
+* Hours of Content: 120+
+* Customer Satisfaction Rate: 98%
+
+3. CORE SERVICES & TRAINING PROGRAMS
+--------------------------------------------------------------------------------
+A. Artificial Intelligence Solutions
+   - Description: Custom machine learning models and predictive architectures tailored to solve complex business bottlenecks.
+   - Core Features:
+     * Predictive Analytics & Forecasting
+     * Computer Vision & Image Segmentation
+     * Natural Language Processing (NLP)
+     * Anomaly Detection Systems
+   - Metric: 95%+ Model Accuracy
+
+B. Data Analytics & Business Intelligence
+   - Description: Transform raw fragmented data lakes into beautifully visualised, structured, and actionable strategic insights.
+   - Core Features:
+     * ETL Pipelines & Data Warehousing
+     * Advanced Statistical Analysis
+     * Interactive Custom Reporting
+     * Behavioral Heatmaps & Analytics
+   - Metric: 10x Faster Insight Generation
+
+C. Generative AI & LLM Development
+   - Description: Harness the power of foundational models custom-tuned to automate knowledge work, creativity, and customer loops.
+   - Core Features:
+     * Custom LLM Fine-tuning (RAG)
+     * Domain-Specific Agent Swarms
+     * Automated Semantic Translation
+     * AI Assistant System Integrations
+   - Metric: 40%+ Operational Cost Reduction
+
+D. AI Chatbots & Cognitive Automation
+   - Description: Deploy 24/7 intelligent contextual agents capable of handling complex transactions and human-like interactions.
+   - Core Features:
+     * Multi-turn Contextual Conversation
+     * Dynamic Intent & Sentiment Analysis
+     * Third-party CRM & API Syncing
+     * Voice & Text Multimodal Support
+   - Metric: 82% Instant Problem Resolution
+
+E. Enterprise Dashboard Development
+   - Description: High-performance real-time visualization centers custom-built for executive decision-makers.
+   - Core Features:
+     * Sub-second Latency Queries
+     * Highly Responsive Custom Views
+     * Role-based Secure Access Controls
+     * Cross-platform Responsive Panels
+   - Metric: 100k+ Data Points Monitored Live
+
+F. Startup MVP Development
+   - Description: Accelerate time-to-market by building and launching high-performance production-ready MVPs with rapid iteration cycles.
+   - Core Features:
+     * Rapid High-Fidelity Prototyping
+     * Clean Modular Node & React Stack
+     * Serverless Cloud Implementations
+     * Built-in Core Analytics & Tracking
+   - Metric: 4-6 Wks Average Design-to-Launch time
+
+G. DevOps & Cloud Engineering
+   - Description: Master modern DevOps practices and cloud-native workflows to build, deploy, and scale applications with speed and reliability.
+   - Core Features:
+     * CI/CD Pipeline Design & Automation
+     * Docker, Kubernetes & Container Orchestration
+     * AWS, GCP & Azure Cloud Deployments
+     * Infrastructure as Code (Terraform, Ansible)
+   - Metric: 60% Faster Deployment Cycles
+
+4. CASE STUDIES & PORTFOLIO PROJECTS
+--------------------------------------------------------------------------------
+Project 1: E-Commerce Agentic Intelligence Suite
+* Category: Generative AI (gen-ai)
+* Tags: Generative AI, Llama 3.1 & GPT-4o, Vector DB, RAG
+* Metrics: 88% SLA Auto-resolved
+* Case Study details:
+  - Challenge: Overwhelming customer inquiry volumes during sales holidays led to 14+ hour response times.
+  - Solution: Developed a custom domain-specific retrieval-augmented generation engine synchronised directly with inventory systems.
+  - Impact: Average resolution time plummeted from 14 hours to 4.2 seconds while achieving a 4.2/5 customer satisfaction rating.
+
+Project 2: Real-time Analytics Dashboard for Smart Cities
+* Category: Dashboards (dashboards)
+* Tags: IoT Streams, React / Tailwind, D3.js Visualization, Power BI Embed
+* Metrics: < 200ms Data Sync Latency
+* Case Study details:
+  - Challenge: Stale municipal datasets prevented real-time emergency dispatch response prioritization during congestion times.
+  - Solution: Created a sub-second websocket pipeline that dynamically cluster-analyses and map-projects live municipal streams.
+  - Impact: Emergency dispatchers reported a 15% reduction in cross-city response latencies during peak hours.
+
+Project 3: Predictive Medical Image Diagnostics
+* Category: Generative AI (gen-ai)
+* Tags: Computer Vision, PyTorch Classifier, Medical Datasets, API Integration
+* Metrics: 98.4% Diagnostic Recall
+* Case Study details:
+  - Challenge: High clinical oversight rates in early-stage micro-anomalies due to low-contrast pixel resolutions.
+  - Solution: Implemented a custom-trained multi-scale Vision Transformer with a gradient-weighted feedback heat-mapping frontend.
+  - Impact: Significantly enhanced early lesion recognition flags, boosting diagnostic precision rates among testing groups.
+
+Project 4: Fintech Credit Scoring & Risk Analytics Engine
+* Category: Analytics (analytics)
+* Tags: Risk Modeling, Python ML, Tableau Integration, Snowflake DW
+* Metrics: $4.2M Fraud Preventive Savings
+* Case Study details:
+  - Challenge: Traditional static credit scores failed to capture real-time market shifts, risking asset values in high-volatility climates.
+  - Solution: Rebuilt credit modeling using gradient boosted decision trees analyzing high-frequency client transactional telemetry.
+  - Impact: Default rates declined by 18% in the initial testing period while increasing loan approval speed by 40%.
+
+Project 5: Synthetix AI: Instant Ad-Creative Copilot
+* Category: MVP (mvp)
+* Tags: Startup MVP, Full-stack React, Stable Diffusion API, FastAPI
+* Metrics: 38 Days From Zero to Beta launch
+* Case Study details:
+  - Challenge: Small businesses waste thousands of dollars on generic stock ad imagery and poorly targeted, non-tested copy lines.
+  - Solution: Engineered a clean workspace application that automatically synthesises context-aware product backgrounds and matching tags.
+  - Impact: Acquired 12,000+ waitlisted users within 10 days of the MVP going live and bagged initial pre-seed funding.
+
+5. WHY ORGANISATIONS TRUST NEUROJNA AI (VALUE PROPOSITIONS)
+--------------------------------------------------------------------------------
+* Rapid Engineering & Delivery: Our proprietary bootstrap modules and visual tooling infrastructure allow us to ship secure enterprise interfaces and fine-tuned AI solutions in a fraction of standard agency times. (Metric: 3x Faster Launch Windows)
+* Highly Scalable Foundations: We build with a cloud-native mindset. Our architectures are containerized, query-optimized, and resilient, automatically absorbing massive user traffic spikes. (Metric: 99.99% Uptime Commitment)
+* Academic & Research Depth: No shallow wrappers. We are backed by active algorithmic research, regularly benchmarking custom-trained neural structures against leading cloud LLMs. (Metric: 8+ Published Case Monographs)
+* Startup Native Philosophies: We understand early-stage dynamics: changing specs, lean budgets, and the absolute necessity of capturing investor attention with dynamic, validated MVPs. (Metric: 35+ Startups Bootstrapped)
+* Rigorous Support & SLG: Our dev teams remain actively on-call to provide system fine-tuning, regression audits, API upgrades, and secure client-managed handovers. (Metric: 24/7 Emergency Support Available)
+
+6. TECHNOLOGIES TAUGHT & UTILISED
+--------------------------------------------------------------------------------
+A. AI, Models & Core Algorithms:
+   - Python: Core neural pipeline and engine logic scripting.
+   - Machine Learning: Supervised/Unsupervised models.
+   - AI Models (LLMs): GPT-4o, Claude 3.5, Gemini 1.5 Pro, Llama 3.
+   - Deep Learning: PyTorch, TensorFlow visual classifier stacks.
+
+B. Data Systems & Visualization:
+   - SQL & Warehouses: Snowflake, PostgreSQL high-scale query indexing.
+   - Power BI: Intelligent corporate dashboard embeds.
+   - Tableau: Enterprise-grade executive reporting.
+   - APIs & Cloud: Modern REST/GraphQL gateways hosted on AWS & GCP.
+
+7. FREQUENTLY ASKED QUESTIONS (FAQs)
+--------------------------------------------------------------------------------
+* Q: How long does a custom AI or Gen AI integration take?
+  - A: Simple AI wrappers or tailored model API integrations take about 2 to 3 weeks. Complex, custom retrieval-augmented generation (RAG) setups or custom-trained classification structures typically conclude with full validation in 4 to 8 weeks.
+* Q: Do you design the UI dashboard as well or just the backend code?
+  - A: We provide comprehensive full-stack delivery. We design the highly engaging frontend responsive dashboards (React, Tailwind, D3.js) and anchor them with robust backend storage APIs (Node, Python FastAPI).
+* Q: How do you ensure enterprise-grade data security in AI applications?
+  - A: We secure client IP. All vectors and private corporate data pipelines are locked with encryption-at-rest. If required, we host LLMs completely inside your client-controlled VPC (AWS / Google Cloud) to guarantee private metadata boundaries.
+* Q: What is your MVP building cycle model for startups?
+  - A: We prioritize focus. After a 1-week alignment mapping session, we engineer a polished, highly responsive core feature set over 4 weeks, prepare it for beta testers, and support you during initial funding pitches.
+
+8. TECHNICAL ARCHITECTURE & DESIGN
+--------------------------------------------------------------------------------
+* Frontend Architecture:
+  - Framework: React (TypeScript) + Vite
+  - Styling: Tailwind CSS
+  - Icons: Lucide React
+  - Visualizations/Charts: Recharts & SVG custom designs
+  - Client Routing: Simple conditional routing for `/admin` vs public page.
+  - Interactive Canvas: Hero features a live particle-based neural network canvas simulating nodes and connecting lines reacting to mouse moves.
+  - Theme Control: Context-based light/dark theme system.
+
+* Backend Architecture:
+  - Framework: Express.js (TypeScript)
+  - Runtime: Node.js
+  - Database Interface: raw `pg` client connecting to PostgreSQL.
+  - Authentication: JSON Web Tokens (JWT) for admin sessions, with bcryptjs for hashing admin credentials. Expiration set to 24 hours.
+  - Mailing System: Nodemailer configured with Gmail SMTP to trigger automatic email confirmations to visitors and notifications to the admin team upon contact submission.
+
+* REST API Endpoints:
+  - POST `/api/contact` (alias: `/api/enquiries`) - Public endpoint to submit contact enquiries. Saves to Database and sends notification and confirmation emails.
+  - POST `/api/newsletter` (alias: `/api/subscribers`) - Public endpoint for waitlist/newsletter signup. Uses check-then-insert validation to avoid duplicates.
+  - POST `/api/auth/login` - Public login endpoint returning JWT token.
+  - GET `/api/admin/contacts` - Protected endpoint (requires JWT) listing all enquiries, ordered by date descending.
+  - DELETE `/api/admin/contacts/:id` - Protected endpoint deleting a contact enquiry.
+  - GET `/api/admin/newsletter` - Protected endpoint listing all newsletter subscribers, ordered by date descending.
+  - DELETE `/api/admin/newsletter/:id` - Protected endpoint deleting a newsletter subscriber.
+  - GET `/api/stats` - Protected endpoint yielding summary metrics (counts, charts data) for the Admin Dashboard.
+  - GET `/api/health` - Health check.
+
+* Database Tables Schema:
+  - Table: `enquiries`
+    * `id` SERIAL PRIMARY KEY
+    * `name` TEXT NOT NULL
+    * `email` TEXT NOT NULL
+    * `company` TEXT
+    * `service` TEXT
+    * `message` TEXT NOT NULL
+    * `status` TEXT DEFAULT 'new'
+    * `created_at` TIMESTAMPTZ DEFAULT NOW()
+  - Table: `subscribers`
+    * `id` SERIAL PRIMARY KEY
+    * `email` TEXT UNIQUE NOT NULL
+    * `created_at` TIMESTAMPTZ DEFAULT NOW()
+  - Table: `admins`
+    * `id` SERIAL PRIMARY KEY
+    * `username` TEXT UNIQUE NOT NULL
+    * `password_hash` TEXT NOT NULL
+    * `created_at` TIMESTAMPTZ DEFAULT NOW()
+
+* Configuration & Environment Variables:
+  - `DATABASE_URL`: Connection string for PostgreSQL.
+  - `JWT_SECRET`: Secret key for JWT signing.
+  - `GMAIL_USER`: SMTP user for sending emails.
+  - `GMAIL_APP_PASSWORD`: SMTP app password.
+  - `ADMIN_EMAIL` / `NOTIFY_EMAIL`: Email addresses targeted for admin alerts.
+  - `ADMIN_USERNAME` / `ADMIN_PASSWORD`: Default admin credential seeds.
+  - `PORT`: Server port.
+================================================================================
